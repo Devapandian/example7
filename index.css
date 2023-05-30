@@ -1,0 +1,60 @@
+.box{
+    background-color: white;
+    text-align: center;
+    border-radius: 50px;
+
+}
+table {
+    font-family: arial, sans-serif;
+    width: 80%;
+    padding-left:100px;
+    text-align: center;
+
+  }
+  
+  td, th {
+    border: 1px solid white;
+    border-radius: 5%;
+    text-align: left;
+    padding: 10px;
+    border-collapse: collapse;
+    width:150px;
+    margin-right: 100px;
+  }
+
+.container{
+    background-color:#F3F3F3;
+padding-right: 100px;
+padding-left: 100px;
+}
+.pagination{
+    padding-left: 100px;
+    display:inline-block;
+  }
+.pagination a {
+   background-color:white;
+   border-radius: 40px;
+   padding:8px 15px;
+   cursor:pointer;
+}
+.container1{
+    background-color:#F3F3F3;
+    padding-left:350px;
+}
+#botton{
+    background-color: blueviolet;
+    width:2000px;
+    border-radius: 40px;
+    text-align:center;
+}
+#botton1{
+    background-color: red;
+    width:110px;
+    border-radius: 40px;
+    text-align: center;
+
+}
+body{
+    background-color:#F3F3F3;
+
+}
